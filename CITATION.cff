@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "Please cite this research artifact using the preferred citation below."
+title: "The Antipodal Cut Code of K_11 Has Covering Radius 19"
+type: software
+authors:
+  - family-names: White
+    given-names: Curtis
+    alias: CurtisAccelerate
+  - name: "OpenAI GPT-5.6 Pro"
+version: 1.0.0
+date-released: 2026-07-26
+repository-code: "https://github.com/CurtisAccelerate/CurtisAccelerate"
+url: "https://github.com/CurtisAccelerate/CurtisAccelerate"
+abstract: >-
+  Reproducible computer-assisted proof that M_11 = 17, equivalently that the
+  antipodal cut code of K_11 has binary Hamming covering radius 19. This
+  refutes the 2009 Esmaeili-Zaghian conjecture at m = 11, the first parameter
+  beyond their reported verification range. Curtis White directed the research
+  and prompt-engineering workflow; GPT-5.6 Pro was the AI mathematical collaborator.
+keywords:
+  - covering radius
+  - cut code
+  - signed complete graph
+  - Boolean quadratic form
+  - computer-assisted proof
+  - Esmaeili-Zaghian conjecture
+preferred-citation:
+  type: article
+  title: "The Antipodal Cut Code of K_11 Has Covering Radius 19: A Counterexample to the Esmaeili-Zaghian Conjecture"
+  authors:
+    - family-names: White
+      given-names: Curtis
+    - name: "OpenAI GPT-5.6 Pro"
+  year: 2026
+  notes: "GitHub research artifact and reproducibility package"
+  url: "https://github.com/CurtisAccelerate/CurtisAccelerate"
